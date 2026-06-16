@@ -1,0 +1,4 @@
+link_id,trunk_name,device_tx,coord_tx,device_rx,coord_rx,eol_db,link_type
+TD-001,Truc-1C-North,HNI9104DWB71,1-2-5,PDL9104DWB71,1-2-8,25,EDFA
+TD-002,Truc-1C-South,TTH8102DWB71,1-1-5,PDL9104DWB71,2-3-8,24,RAMAN
+TD-003,Truc-1C-East,HNI9104DWB71,3-4-5,PDL9104DWB71,3-4-8,25,EDFA

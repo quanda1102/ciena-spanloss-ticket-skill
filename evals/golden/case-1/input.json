@@ -1,0 +1,8 @@
+{
+  "alarm_id": "NCP-EVAL-001",
+  "alarm_type": "High Received Span loss",
+  "device_code": "PDL9104DWB71",
+  "component": "LIM-1-2",
+  "description": "High Received Span loss on PDL9104DWB71 LIM-1-2",
+  "mock_scenario": "within_eol"
+}
